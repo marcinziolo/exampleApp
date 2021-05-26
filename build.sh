@@ -1,0 +1,1 @@
+docker build -t mcreativo/hello-world:latest .
